@@ -1,0 +1,13 @@
+{
+  "name": "keller-raposo-mockup",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Mockup funcional do website Keller Raposo Advogados para validação de design e navegação.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "dev": "node scripts/serve.mjs"
+  },
+  "engines": { "node": ">=20" }
+}
