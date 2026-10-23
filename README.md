@@ -60,7 +60,7 @@ O projeto não contém segredos. O workflow usa somente o `GITHUB_TOKEN` tempor�
 
 O build e a verificação executam automaticamente em cada alteração da branch `main`. A publicação fica desativada até que Pages esteja habilitado e a variável de repositório `ENABLE_PAGES` receba o valor `true`. Assim, o repositório pode ser revisado em modo privado sem tentar publicar um ambiente ainda não configurado.
 
-O repositório dedicado é [diegocgomes/keller-raposo-website](https://github.com/diegocgomes/keller-raposo-website). A exposição pública do código, das imagens e do conteúdo demonstrativo foi autorizada em 23 de outubro de 2026. O repositório é público, Pages usa GitHub Actions e `ENABLE_PAGES=true` está configurado. A prévia é destinada à validação com o cliente; o resultado de cada publicação pode ser acompanhado na aba Actions.
+O repositório dedicado é [add2go/keller-raposo-website](https://github.com/add2go/keller-raposo-website). A exposição pública do código, das imagens e do conteúdo demonstrativo foi autorizada em 23 de outubro de 2026. O repositório é público, Pages usa GitHub Actions e `ENABLE_PAGES=true` está configurado. A prévia é destinada à validação com o cliente; o resultado de cada publicação pode ser acompanhado na aba Actions.
 
 ## Próxima fase
 

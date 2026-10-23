@@ -71,6 +71,6 @@ Não há migração do domínio, alteração de DNS, assinatura de plano ou cone
 
 ## Repositório de revisão
 
-O código é mantido em [diegocgomes/keller-raposo-website](https://github.com/diegocgomes/keller-raposo-website), dedicado a este cliente. A exposição pública do repositório e da prévia foi autorizada em 23 de outubro de 2026.
+O código é mantido em [add2go/keller-raposo-website](https://github.com/add2go/keller-raposo-website), dedicado a este cliente. A exposição pública do repositório e da prévia foi autorizada em 23 de outubro de 2026.
 
 GitHub Actions executa o build e verifica os links em cada push na branch `main`. Pages está configurado com fonte GitHub Actions e a variável `ENABLE_PAGES=true` habilita o job de publicação após a aprovação do build. A configuração utiliza o repositório público e não exige alteração do domínio ou contratação de um plano nesta etapa.
