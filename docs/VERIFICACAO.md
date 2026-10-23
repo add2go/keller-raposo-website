@@ -24,4 +24,4 @@ Foram corrigidas as opções do seletor de assunto do formulário e a separaçã
 
 Não foram executados testes em dispositivos físicos, Safari ou Firefox. A inspeção responsiva foi feita com iframes de largura controlada no Chrome. Copiar links depende de suporte e permissão de clipboard do navegador, normalmente em HTTPS; há mensagem de alternativa quando indisponível.
 
-GitHub Actions e GitHub Pages estão preparados em código, mas ainda precisam ser executados e confirmados no repositório remoto. Sanity, envio real de formulário, domínio e infraestrutura de produção não fazem parte da integração ativa deste mockup.
+O relatório acima descreve a verificação local do mockup. GitHub Actions executa também o build e a verificação de links no repositório remoto. Pages foi configurado para publicar por Actions, com `ENABLE_PAGES=true`; o histórico e o resultado das publicações ficam disponíveis na aba Actions. Sanity, envio real de formulário, domínio e infraestrutura de produção não fazem parte da integração ativa deste mockup.
